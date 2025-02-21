@@ -1,4 +1,4 @@
-package com.uc2.hello_app;
+package com.uc.hello_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
